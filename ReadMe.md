@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer at Tata Consultancy Services (TCS), working on a GitHub-related project. I have experience in Java, Spring Boot, SQL, React.js, AWS, and Artificial Intelligence & Machine Learning. I have knowledge of full-stack development, REST API development, database management, cloud technologies, and modern software development practices. I am also familiar with GitHub, version control, and collaborative development workflows. I enjoy solving complex problems, learning new technologies, and building scalable, efficient, and user-friendly applications. I am passionate about continuous learning and expanding my technical expertise to grow as a software engineer.
+Software Engineer at Tata Consultancy Services (TCS). I have experience in Java, Spring Boot, SQL, React.js, AWS, and Artificial Intelligence & Machine Learning. I have knowledge of full-stack development, REST API development, database management, cloud technologies, and modern software development practices. I am also familiar with GitHub, version control, and collaborative development workflows. I enjoy solving complex problems, learning new technologies, and building scalable, efficient, and user-friendly applications. I am passionate about continuous learning and expanding my technical expertise to grow as a software engineer.
 
 
 ## 🌐 Socials:
